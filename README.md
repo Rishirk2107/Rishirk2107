@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishirk2107&label=Profile%20views&color=0e75b6&style=flat" alt="rishirk2107" /> </p>
 
-- 🔭 I’m currently working on [Chatbot](https://github.com/Rishirk2107/RAG-Langchain.git)
+- 🔭 I’m currently working on [Chatbots](https://github.com/Rishirk2107/RAG-Langchain.git)
 
 - 🌱 I’m currently learning **React-Native**
 
