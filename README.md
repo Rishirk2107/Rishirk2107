@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 🤝 I’m looking for help with [LLMS](https://github.com/Rishirk2107/RAG-Langchain.git)
+- 🤝 I’m help on [LLMS](https://github.com/Rishirk2107/RAG-Langchain.git)
 
-- 👨‍💻 All of my projects are available at [https://rishirk2107.github.io/Portfolio/](https://rishirk2107.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio-nine-weld-15.vercel.app](portfolio-nine-weld-15.vercel.app)
 
 - 💬 Ask me about **LLM, React.js, React-Native, Node.js**
 
