@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Chatbots](https://github.com/Rishirk2107/RAG-Langchain.git)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **GO Lang**
 
 - 🤝 I’m help on [LLMS](https://github.com/Rishirk2107/RAG-Langchain.git)
 
-- 👨‍💻 All of my projects are available at [portfolio-nine-weld-15.vercel.app](portfolio-nine-weld-15.vercel.app)
+- 👨‍💻 All of my projects are available at [www.rishinex.tech](www.rishinex.tech)
 
 - 💬 Ask me about **LLM, React.js, React-Native, Node.js**
 
 - 📫 How to reach me **rishikumarss2004@gmail.com**
 
-- 📄 Know about my experiences [https://blush-viviana-1.tiiny.site](https://blush-viviana-1.tiiny.site)
+- 📄 Know about my experiences [Resume]([https://blush-viviana-1.tiiny.site](https://drive.google.com/file/d/1aOocr72ciryTdQ8t391qAU7DHpvbNFNw/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
